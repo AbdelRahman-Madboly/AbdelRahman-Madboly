@@ -12,25 +12,25 @@
 
 ## I engineer the whole system
 
-AI & Machine Learning Engineer and backend/full-stack developer who takes ambitious systems from first architecture to reliable production — agentic AI platforms, production APIs, data pipelines, and edge computer vision. **Open to roles across AI engineering, backend systems, and production infrastructure.**
+AI & Machine Learning Engineer and backend/full-stack developer who takes ambitious systems from first architecture to reliable production, including agentic AI platforms, production APIs, data pipelines, and edge computer vision. **Open to roles across AI engineering, backend systems, and production infrastructure.**
 
 ## Impact, not prototypes
 
 - Migrated **4,928 employee records** from legacy MS Access to PostgreSQL with **zero data loss**.
-- Shipped an ERP in **daily paid use**, including a zero-downtime JSON → SQLite WAL migration.
-- Built a production **agentic AI platform** — hybrid RAG, LangGraph, MCP, four LLM providers, **35/35 tests passing**.
+- Shipped an ERP in **daily paid use**, including a zero-downtime JSON to SQLite WAL migration.
+- Built a production **agentic AI platform** with hybrid RAG, LangGraph, MCP, four LLM providers, and **35/35 tests passing**.
 - Led **30+ engineers** across AI, software, electronics, and mechanical teams on an award-winning autonomous underwater vehicle.
-- Co-built an **A+ graduation project** — **two national awards**, +4.06% adverse-weather detection mAP50.
+- Co-built an **A+ graduation project** that won **two national awards** and improved adverse-weather detection mAP50 by **4.06%**.
 
 ## Selected systems
 
-| System | What I built | Proof |
-|---|---|---|
-| **Nexus-AI** | Agentic business-ops platform: hybrid BM25 + semantic RAG, cross-encoder reranking, LangGraph multi-agent CRM, four-provider LLM router | Solo · 35/35 tests · Docker |
-| **EWIMS** | Employee insurance platform replacing a legacy Access database with FastAPI + PostgreSQL | 4,928 records · zero data loss · production |
-| **Abaad 3D ERP** | Order, inventory, finance, PDF, G-code, OCR, and RBAC system for a 3D-printing business | Paying client · daily use · zero downtime |
-| **si-reach** | Autonomous Arabic B2B lead-gen CRM with AI reply agent and human escalation | Production · cost circuit breaker · CI/CD |
-| **CloudyDrive** | Metaheuristic-optimized YOLO pipeline for adverse-weather driving, through INT8 edge deployment | A+ · ITI-funded · 2× national award |
+| Project | What it does | Stack | Proof |
+|---|---|---|---|
+| **Nexus-AI** | Agentic business-operations platform with hybrid retrieval and a multi-agent CRM | LangGraph · BM25 + semantic RAG · cross-encoder reranking · 4-provider LLM router · Docker | Solo-built · 35/35 tests |
+| **EWIMS** | Employee insurance platform replacing a legacy Access database | FastAPI · PostgreSQL | 4,928 records · zero data loss · in production |
+| **Abaad 3D ERP** | ERP for a 3D-printing business: orders, inventory, finance, OCR, RBAC | FastAPI · G-code · PDF · OCR · RBAC | Paying client · daily use · zero-downtime migration |
+| **si-reach** | Autonomous Arabic B2B lead-generation CRM with an AI reply agent | FastAPI · CI/CD · cost circuit breaker | In production · human escalation |
+| **CloudyDrive** | Metaheuristic-optimized YOLO pipeline for adverse-weather driving | YOLO · INT8 edge deployment | A+ · ITI-funded · 2x national award |
 
 ## Toolkit
 
