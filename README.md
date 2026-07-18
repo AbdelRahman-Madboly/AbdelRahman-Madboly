@@ -108,6 +108,14 @@ class AbdelRahmanMadboly:
 
 </div>
 
+## A principle worth sharing
+
+<div align="center">
+
+![Engineering advice](./assets/engineering-advice.svg)
+
+</div>
+
 ## GitHub activity
 
 <div align="center">
