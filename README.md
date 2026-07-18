@@ -69,8 +69,10 @@ principle: "Own the outcome—from model and schema to deployment and incident r
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/AbdelRahman-Madboly/AbdelRahman-Madboly/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Contribution snake](https://raw.githubusercontent.com/AbdelRahman-Madboly/AbdelRahman-Madboly/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbdelRahman-Madboly&theme=transparent&hide_border=true&stroke=22B8CF&ring=22B8CF&fire=FF922B&currStreakLabel=22B8CF&sideLabels=4DABF7)](https://git.io/streak-stats)
+
+![Contribution snake](https://raw.githubusercontent.com/AbdelRahman-Madboly/AbdelRahman-Madboly/gh-pages/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution snake](https://raw.githubusercontent.com/AbdelRahman-Madboly/AbdelRahman-Madboly/gh-pages/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
