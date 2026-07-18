@@ -20,6 +20,37 @@ I am an **AI & Machine Learning Engineer** and **backend/full-stack developer** 
 
 </div>
 
+### About me, in code
+
+```python
+from dataclasses import dataclass
+
+
+@dataclass(frozen=True)
+class AbdelRahmanMadboly:
+    role: str = "AI Systems & Backend Engineer"
+    location: str = "Cairo, Egypt"
+
+    strengths: tuple[str, ...] = (
+        "Production agentic AI and RAG",
+        "Backend architecture and data-intensive systems",
+        "Computer vision and offline edge AI",
+        "Infrastructure, migrations, and operational reliability",
+    )
+
+    operating_principle: str = (
+        "Own the outcome—from model and schema "
+        "to deployment and incident response."
+    )
+
+    currently_open_to: tuple[str, ...] = (
+        "AI / Applied AI Engineering",
+        "Backend / Platform Engineering",
+        "Computer Vision & Edge AI",
+        "Technical leadership for ambitious products",
+    )
+```
+
 ### Impact, not prototypes
 
 - Migrated **4,928 employee records** from a legacy MS Access system to PostgreSQL with **zero data loss**.
@@ -42,9 +73,19 @@ I am an **AI & Machine Learning Engineer** and **backend/full-stack developer** 
 
 ## Engineering toolkit
 
+### Languages and application frameworks
+
 <div align="center">
 
-[![Core stack](https://skillicons.dev/icons?i=python,ts,cpp,c,dart,fastapi,nestjs,nextjs,react,flutter,pytorch,opencv,postgres,sqlite,docker,linux,nginx,git,githubactions,raspberrypi,arduino&perline=11)](https://skillicons.dev)
+[![Languages and frameworks](https://skillicons.dev/icons?i=python,ts,cpp,c,dart,fastapi,nestjs,nextjs,react,flutter&perline=10)](https://skillicons.dev)
+
+</div>
+
+### AI, data, production, and edge
+
+<div align="center">
+
+[![AI, data, production, and edge tools](https://skillicons.dev/icons?i=pytorch,opencv,postgres,sqlite,docker,linux,nginx,git,githubactions,raspberrypi,arduino&perline=11)](https://skillicons.dev)
 
 </div>
 
@@ -66,6 +107,8 @@ I am an **AI & Machine Learning Engineer** and **backend/full-stack developer** 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AbdelRahman-Madboly&theme=transparent&hide_border=true&stroke=22B8CF&ring=22B8CF&fire=FF922B&currStreakLabel=22B8CF&sideLabels=4DABF7)](https://git.io/streak-stats)
+
+![Recent GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=AbdelRahman-Madboly&bg_color=071A2B&color=8FD3E0&line=22B8CF&point=63E6BE&area=true&area_color=0B7285&hide_border=true&custom_title=Recent%20Engineering%20Activity)
 
 ![Contribution snake](https://raw.githubusercontent.com/AbdelRahman-Madboly/AbdelRahman-Madboly/gh-pages/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Contribution snake](https://raw.githubusercontent.com/AbdelRahman-Madboly/AbdelRahman-Madboly/gh-pages/github-contribution-grid-snake.svg#gh-light-mode-only)
