@@ -55,15 +55,11 @@ I am an **AI & Machine Learning Engineer** and **backend/full-stack developer** 
 
 ## Current focus
 
-```yaml
-building:
-  - production agentic systems with measurable business value
-  - reliable multi-tenant SaaS and data-intensive backends
-  - offline edge-AI products connecting vision, sensors, and mobile apps
-researching:
-  - deepfake video detection with wavelet boundary attention and Temporal Mamba
-principle: "Own the outcome—from model and schema to deployment and incident response."
-```
+<div align="center">
+
+![Current engineering focus](./assets/current-focus.svg)
+
+</div>
 
 ## GitHub activity
 

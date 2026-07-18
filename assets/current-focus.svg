@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510" role="img" aria-labelledby="title desc">
+  <title id="title">Abdel Rahman Madboly's current engineering focus</title>
+  <desc id="desc">Three product-building tracks and one research track, supported by an end-to-end engineering ownership principle.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071a2b"/>
+      <stop offset="0.5" stop-color="#0b3445"/>
+      <stop offset="1" stop-color="#071f2d"/>
+    </linearGradient>
+    <linearGradient id="build" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#4dabf7"/>
+      <stop offset="1" stop-color="#22b8cf"/>
+    </linearGradient>
+    <linearGradient id="research" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#9775fa"/>
+      <stop offset="1" stop-color="#4dabf7"/>
+    </linearGradient>
+    <linearGradient id="principle" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#20c997"/>
+      <stop offset="1" stop-color="#63e6be"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="510" rx="28" fill="url(#background)"/>
+  <rect x="1" y="1" width="998" height="508" rx="27" fill="none" stroke="#17657a" stroke-opacity="0.65"/>
+
+  <text x="500" y="43" text-anchor="middle" fill="#e6f7fb" font-family="Inter,Segoe UI,sans-serif" font-size="22" font-weight="750" letter-spacing="2.5">CURRENT FOCUS</text>
+  <text x="500" y="68" text-anchor="middle" fill="#8fb8c7" font-family="Inter,Segoe UI,sans-serif" font-size="13" letter-spacing="1.2">BUILDING PRODUCTION SYSTEMS · ADVANCING APPLIED AI</text>
+
+  <path d="M500 82 V106 M160 106 H840" fill="none" stroke="#17657a" stroke-width="2" stroke-dasharray="7 7">
+    <animate attributeName="stroke-dashoffset" from="28" to="0" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Inter,Segoe UI,sans-serif">
+    <g transform="translate(38 106)">
+      <rect width="288" height="180" rx="20" fill="#0b2638" stroke="#339af0" stroke-width="2"/>
+      <circle cx="32" cy="32" r="10" fill="#4dabf7" filter="url(#glow)"><animate attributeName="r" values="8;11;8" dur="2s" repeatCount="indefinite"/></circle>
+      <text x="53" y="38" fill="#74c0fc" font-size="14" font-weight="750" letter-spacing="1">AGENTIC SYSTEMS</text>
+      <text x="25" y="79" fill="#e6f7fb" font-size="17" font-weight="700">Production AI agents</text>
+      <text x="25" y="106" fill="#a9c7d2" font-size="14">designed around measurable</text>
+      <text x="25" y="128" fill="#a9c7d2" font-size="14">business outcomes, controlled</text>
+      <text x="25" y="150" fill="#a9c7d2" font-size="14">cost, and human oversight.</text>
+      <rect x="25" y="162" width="238" height="3" rx="2" fill="url(#build)"><animate attributeName="width" values="35;238;35" dur="4s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <g transform="translate(356 106)">
+      <rect width="288" height="180" rx="20" fill="#0b2638" stroke="#22b8cf" stroke-width="2"/>
+      <circle cx="32" cy="32" r="10" fill="#22b8cf" filter="url(#glow)"><animate attributeName="r" values="8;11;8" dur="2s" begin=".5s" repeatCount="indefinite"/></circle>
+      <text x="53" y="38" fill="#66d9e8" font-size="14" font-weight="750" letter-spacing="1">SAAS &amp; DATA</text>
+      <text x="25" y="79" fill="#e6f7fb" font-size="17" font-weight="700">Reliable multi-tenant</text>
+      <text x="25" y="106" fill="#a9c7d2" font-size="14">SaaS and data-intensive</text>
+      <text x="25" y="128" fill="#a9c7d2" font-size="14">backends built for integrity,</text>
+      <text x="25" y="150" fill="#a9c7d2" font-size="14">scale, and operability.</text>
+      <rect x="25" y="162" width="238" height="3" rx="2" fill="url(#build)"><animate attributeName="width" values="35;238;35" dur="4s" begin=".6s" repeatCount="indefinite"/></rect>
+    </g>
+
+    <g transform="translate(674 106)">
+      <rect width="288" height="180" rx="20" fill="#0b2638" stroke="#20c997" stroke-width="2"/>
+      <circle cx="32" cy="32" r="10" fill="#20c997" filter="url(#glow)"><animate attributeName="r" values="8;11;8" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+      <text x="53" y="38" fill="#63e6be" font-size="14" font-weight="750" letter-spacing="1">EDGE INTELLIGENCE</text>
+      <text x="25" y="79" fill="#e6f7fb" font-size="17" font-weight="700">Offline edge-AI products</text>
+      <text x="25" y="106" fill="#a9c7d2" font-size="14">connecting computer vision,</text>
+      <text x="25" y="128" fill="#a9c7d2" font-size="14">physical sensors, embedded</text>
+      <text x="25" y="150" fill="#a9c7d2" font-size="14">systems, and mobile apps.</text>
+      <rect x="25" y="162" width="238" height="3" rx="2" fill="url(#principle)"><animate attributeName="width" values="35;238;35" dur="4s" begin="1.2s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+
+  <g transform="translate(38 316)" font-family="Inter,Segoe UI,sans-serif">
+    <rect width="924" height="84" rx="20" fill="#101d3b" stroke="url(#research)" stroke-width="2"/>
+    <circle cx="37" cy="42" r="12" fill="#9775fa" filter="url(#glow)"><animate attributeName="opacity" values=".55;1;.55" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="64" y="34" fill="#b197fc" font-size="13" font-weight="750" letter-spacing="1.4">RESEARCHING</text>
+    <text x="64" y="59" fill="#edf2ff" font-size="17" font-weight="650">Deepfake video detection with Wavelet-Guided Boundary Attention and Temporal Mamba</text>
+    <path d="M695 20 H884" stroke="url(#research)" stroke-width="3" stroke-dasharray="12 12"><animate attributeName="stroke-dashoffset" from="48" to="0" dur="2s" repeatCount="indefinite"/></path>
+  </g>
+
+  <g transform="translate(38 425)" font-family="Inter,Segoe UI,sans-serif">
+    <rect width="924" height="58" rx="18" fill="#0a302e" stroke="#20c997" stroke-width="1.5"/>
+    <text x="28" y="36" fill="#63e6be" font-size="13" font-weight="750" letter-spacing="1.5">PRINCIPLE</text>
+    <text x="148" y="36" fill="#e6fcf5" font-size="16" font-weight="600">Own the outcome—from model and schema to deployment and incident response.</text>
+  </g>
+</svg>
