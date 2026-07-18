@@ -23,32 +23,38 @@ I am an **AI & Machine Learning Engineer** and **backend/full-stack developer** 
 ### About me, in code
 
 ```python
-from dataclasses import dataclass
-
-
-@dataclass(frozen=True)
 class AbdelRahmanMadboly:
-    role: str = "AI Systems & Backend Engineer"
-    location: str = "Cairo, Egypt"
+    def __init__(self):
+        self.role = "AI Systems & Backend Engineer"
+        self.location = "Cairo, Egypt"
+        self.current_mission = "Make AI useful after the demo ends"
+        self.superpowers = [
+            "teaching agents to use tools without starting a rebellion",
+            "moving legacy data without losing anyone's salary history",
+            "making APIs, models, databases, and sensors speak politely",
+            "turning 'it works on my machine' into 'it survives production'",
+        ]
+        self.natural_predators = {
+            "mystery spreadsheets",
+            "silent exceptions",
+            "Friday-night deployments",
+            "LLM agents with unlimited tool permissions",
+        }
 
-    strengths: tuple[str, ...] = (
-        "Production agentic AI and RAG",
-        "Backend architecture and data-intensive systems",
-        "Computer vision and offline edge AI",
-        "Infrastructure, migrations, and operational reliability",
-    )
+    def debug(self, problem):
+        while problem.exists():
+            problem = problem.read_logs().inspect_data().question_assumptions()
+        return "fixed, tested, monitored, and documented"
 
-    operating_principle: str = (
-        "Own the outcome—from model and schema "
-        "to deployment and incident response."
-    )
+    def operating_principle(self):
+        return "Own the outcome—from model and schema to incident response."
 
-    currently_open_to: tuple[str, ...] = (
-        "AI / Applied AI Engineering",
-        "Backend / Platform Engineering",
-        "Computer Vision & Edge AI",
-        "Technical leadership for ambitious products",
-    )
+    def status(self):
+        return {
+            "coffee": "optional",
+            "backups": "mandatory",
+            "open_to_work": True,
+        }
 ```
 
 ### Impact, not prototypes
