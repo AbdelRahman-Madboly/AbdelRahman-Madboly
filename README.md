@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071A2B,45:0B7285,100:22B8CF&text=Abdel%20Rahman%20Madboly&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Production%20Builder&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071A2B,45:0B7285,100:22B8CF&text=Abdel%20Rahman%20Madboly&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Production%20Builder&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=22B8CF&center=true&vCenter=true&width=850&lines=I+build+AI+systems+that+survive+production.;Agentic+AI+%E2%80%A2+Backend+%E2%80%A2+Edge+AI+%E2%80%A2+Infrastructure;From+research+and+architecture+to+deployment+and+operations.)](https://git.io/typing-svg)
 
@@ -12,13 +12,13 @@
 
 ## I engineer the whole system
 
-I am an **AI & Machine Learning Engineer** and **backend/full-stack developer** who takes ambitious systems from first architecture to reliable production. I build agentic AI platforms, production APIs, data pipelines, edge-computer-vision products, and the infrastructure that keeps them running.
+I am an **AI & Machine Learning Engineer** and **backend/full-stack developer** who takes ambitious systems from first architecture to reliable production. I build agentic AI platforms, production APIs, data pipelines, edge-computer-vision products, and the infrastructure that keeps them running. I am currently open to roles where I can contribute across **AI engineering, backend systems, and production infrastructure**.
 
-Today, I am the sole backend and infrastructure engineer for two production systems at **VOTECHX**, and the founder of **VINEX**, where I turn hard operational problems into shipped software.
+<div align="center">
 
-```text
-Research → Architecture → Backend → AI/ML → Infrastructure → Production
-```
+![End-to-end engineering workflow](./assets/engineering-flow.svg)
+
+</div>
 
 ### Impact, not prototypes
 
