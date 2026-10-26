@@ -20,7 +20,7 @@ from device firmware to the mobile app. Software Engineer at **VOTECHX** and fou
 | **Clinic SaaS** · [live](https://app.votechx.com) | Arabic RTL multi-tenant platform for dental clinics: appointments, patients, finance, stock, HR | Next.js · NestJS · Prisma · PostgreSQL · CI |
 | **Clinic assistant** · [live](https://chatbot.votechx.com) | AI reservation assistant for clinics on WhatsApp and web, with an operator console | NestJS · React · PostgreSQL + pgvector |
 | **AI outreach CRM** | Lead collection, Arabic WhatsApp outreach, LLM reply classification and an AI agent with human escalation | FastAPI · n8n · PostgreSQL · React |
-| **Workforce records system** | Encrypted, offline-first system that replaced an MS Access database; migrated 4,928 employee records | Python · FastAPI · Windows CI |
+| **Workforce records system** | Encrypted, offline-first system that replaced an MS Access database; migrated 4,928 employee records | Python · SQLCipher · Windows CI |
 | **3D-printing ERP** | Orders, filament stock, printers and finance for a business that runs on it daily | Python · FastAPI · SQLite |
 | **WaveGate** | Deepfake detection research: wavelet boundary gating, trained on real faces only | PyTorch |
 | **USV link manager** | Mission-aware classifier choosing cellular or satellite for unmanned boats; 97% held-out accuracy on simulated link data | Python · NumPy MLP |
