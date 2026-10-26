@@ -11,14 +11,14 @@
 
 I build production backends, multi-tenant SaaS and AI automation, and edge AI products that run
 from device firmware to the mobile app. Software Engineer at **VOTECHX** and founding engineer at
-**VINEX**. Master's student at Suez Canal University.
+**VINEX**.
 
 ### Selected work
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Clinic SaaS** · [live](https://app.votechx.com) | Arabic RTL multi-tenant platform for dental clinics: appointments, patients, finance, stock, HR | Next.js · NestJS · Prisma · PostgreSQL · CI |
-| **Clinic assistant** · [live](https://chatbot.votechx.com) | AI reservation assistant for clinics on WhatsApp and web, with an operator console | NestJS · React · PostgreSQL + pgvector |
+| **Clinic SaaS** | Arabic RTL multi-tenant platform for dental clinics: appointments, patients, finance, stock, HR | Next.js · NestJS · Prisma · PostgreSQL · CI |
+| **Clinic assistant** | AI reservation assistant for clinics on WhatsApp and web, with an operator console | NestJS · React · PostgreSQL + pgvector |
 | **AI outreach CRM** | Lead collection, Arabic WhatsApp outreach, LLM reply classification and an AI agent with human escalation | FastAPI · n8n · PostgreSQL · React |
 | **Workforce records system** | Encrypted, offline-first system that replaced an MS Access database; migrated 4,928 employee records | Python · SQLCipher · Windows CI |
 | **3D-printing ERP** | Orders, filament stock, printers and finance for a business that runs on it daily | Python · FastAPI · SQLite |
