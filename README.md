@@ -36,6 +36,30 @@ and wiring where there is a device.
 
 <sub>Pictures are concept images of each product in use. Status, tests and limits are in each repository.</sub>
 
+### Personal apps and tools
+
+Apps I built for my own phone and laptop and use every day. Each repository has screenshots from
+demo data, tests in CI and install steps.
+
+<table>
+<tr>
+<td align="center" width="14%"><a href="https://github.com/AbdelRahman-Madboly/charge-monitor"><img src="https://raw.githubusercontent.com/AbdelRahman-Madboly/charge-monitor/main/docs/readme-icon.png" width="64" alt="Charge Monitor"><br><b>Charge Monitor</b></a><br><sub>Android</sub></td>
+<td align="center" width="14%"><a href="https://github.com/AbdelRahman-Madboly/spending-tracker"><img src="https://raw.githubusercontent.com/AbdelRahman-Madboly/spending-tracker/master/docs/readme-icon.png" width="64" alt="Spending Tracker"><br><b>Spending Tracker</b></a><br><sub>Android</sub></td>
+<td align="center" width="14%"><a href="https://github.com/AbdelRahman-Madboly/netusage"><img src="https://raw.githubusercontent.com/AbdelRahman-Madboly/netusage/main/docs/readme-icon.png" width="64" alt="netusage"><br><b>netusage</b></a><br><sub>Linux + Android</sub></td>
+<td align="center" width="14%"><a href="https://github.com/AbdelRahman-Madboly/laptop-doctor"><img src="https://raw.githubusercontent.com/AbdelRahman-Madboly/laptop-doctor/main/docs/readme-icon.png" width="64" alt="Laptop Doctor"><br><b>Laptop Doctor</b></a><br><sub>Linux</sub></td>
+<td align="center" width="14%"><a href="https://github.com/AbdelRahman-Madboly/tools-hub"><img src="https://raw.githubusercontent.com/AbdelRahman-Madboly/tools-hub/master/docs/readme-icon.png" width="64" alt="Tools Hub"><br><b>Tools Hub</b></a><br><sub>Linux</sub></td>
+<td align="center" width="14%"><a href="https://github.com/AbdelRahman-Madboly/pdf-to-markdown"><img src="https://raw.githubusercontent.com/AbdelRahman-Madboly/pdf-to-markdown/master/docs/readme-icon.png" width="64" alt="PDF to Markdown"><br><b>PDF to Markdown</b></a><br><sub>Linux</sub></td>
+<td align="center" width="14%"><a href="https://github.com/AbdelRahman-Madboly/video-collector"><img src="https://raw.githubusercontent.com/AbdelRahman-Madboly/video-collector/master/docs/readme-icon.png" width="64" alt="Video Collector"><br><b>Video Collector</b></a><br><sub>Linux</sub></td>
+</tr>
+</table>
+
+| App | What it does | Stack |
+|---|---|---|
+| **[Charge Monitor](https://github.com/AbdelRahman-Madboly/charge-monitor)** | Logs every phone charge per source and measures real power bank capacity and charger output, with a 3D-printed power bank case | Kotlin · Android · Room |
+| **[Spending Tracker](https://github.com/AbdelRahman-Madboly/spending-tracker)** | Offline-first Arabic RTL spending log: two-tap entry, voice, photo, barcode and note capture, Excel export | Flutter · Drift (SQLite) |
+| **[netusage](https://github.com/AbdelRahman-Madboly/netusage)** | Per-app internet accounting on Linux with eBPF, billing-cycle limits, a GTK dashboard and an Android companion | Python · eBPF · GTK · Kotlin |
+| **[Laptop Doctor](https://github.com/AbdelRahman-Madboly/laptop-doctor)** | Health checks, live monitor, crash triage and daily reports for an Ubuntu laptop, read-only by default | Python · PySide6 · systemd |
+
 ### Selected work
 
 | Project | What it does | Stack |
