@@ -13,6 +13,29 @@ I build production backends, multi-tenant SaaS and AI automation, and edge AI pr
 from device firmware to the mobile app. Software Engineer at **VOTECHX** and founding engineer at
 **VINEX**.
 
+### Open-source products (VINEX)
+
+Hardware, firmware, backend and apps, each in one public repository with CI, printable enclosures
+and wiring where there is a device.
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://github.com/VINEX-Tech/nazer"><img src="https://raw.githubusercontent.com/VINEX-Tech/nazer/main/hardware/tracker-box/images/concept-in-car.jpg" alt="Nazer"><br><b>Nazer</b></a><br><sub>Vehicle tracker</sub></td>
+<td align="center" width="25%"><a href="https://github.com/VINEX-Tech/farmlens"><img src="https://raw.githubusercontent.com/VINEX-Tech/farmlens/main/hardware/pi-cam-case/images/concept-field.jpg" alt="FarmLens"><br><b>FarmLens</b></a><br><sub>Crop-health node</sub></td>
+<td align="center" width="25%"><a href="https://github.com/VINEX-Tech/swimtrack"><img src="https://raw.githubusercontent.com/VINEX-Tech/swimtrack/main/docs/images/concept-kit.jpg" alt="SwimTrack"><br><b>SwimTrack</b></a><br><sub>Swim tracker</sub></td>
+<td align="center" width="25%"><a href="https://github.com/VINEX-Tech/monion"><img src="https://raw.githubusercontent.com/VINEX-Tech/monion/main/docs/images/concept-bus-door.jpg" alt="Monion"><br><b>Monion</b></a><br><sub>Bus attendance</sub></td>
+</tr>
+</table>
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Nazer](https://github.com/VINEX-Tech/nazer)** | Vehicle tracker: ESP32 with GPS, IMU, GPRS and BLE, speed limits looked up on the device from OpenStreetMap, FastAPI backend, React admin map, Flutter app, sealed printed enclosure | ESP32 · FastAPI · React · Flutter · CAD |
+| **[FarmLens](https://github.com/VINEX-Tech/farmlens)** | Crop-health node: Raspberry Pi server fusing a camera score with soil and water readings into one risk score, ESP32 sensor firmware, Flutter app with a live camera over a phone hotspot, outdoor printed case | Raspberry Pi · FastAPI · ESP32 · Flutter · CAD |
+| **[SwimTrack](https://github.com/VINEX-Tech/swimtrack)** | Wrist-worn swim tracker: stroke and lap detection on an ESP32-S2, a decision-tree stroke classifier trained on self-collected IMU data and exported to C++, Flutter app | ESP32-S2 · IMU · Python ML · Flutter |
+| **[Monion](https://github.com/VINEX-Tech/monion)** | University bus attendance: Flutter card scanner, NestJS API with idempotent IN/OUT records, Prisma schema checked against PostgreSQL in CI, React dashboard | Flutter · NestJS · Prisma · React |
+
+<sub>Pictures are concept images of each product in use. Status, tests and limits are in each repository.</sub>
+
 ### Selected work
 
 | Project | What it does | Stack |
@@ -24,11 +47,8 @@ from device firmware to the mobile app. Software Engineer at **VOTECHX** and fou
 | **3D-printing ERP** | Orders, filament stock, printers and finance for a business that runs on it daily | Python · FastAPI · SQLite |
 | **WaveGate** | Deepfake detection research: wavelet boundary gating, trained on real faces only | PyTorch |
 | **USV link manager** | Mission-aware classifier choosing cellular or satellite for unmanned boats; 97% held-out accuracy on simulated link data | Python · NumPy MLP |
-| **[FarmLens](https://github.com/AbdelRahman-Madboly/FarmLens-node)** | Edge AI crop-health node with on-device detection, sensor firmware and a companion app | YOLOv11n INT8 · Raspberry Pi · ESP32 · Flutter |
-| **Nazer** | Vehicle speed monitoring: GSM device, violation platform with driver scoring, mobile app | ESP32 · FastAPI · React · Flutter |
-| **SwimTrack** | Wrist-worn swim computer with an on-device stroke classifier | ESP32-S2 · IMU · Python ML |
 
-Most of this work is private client or employer code. Walkthroughs on request.
+The work above is private client or employer code. Walkthroughs on request.
 
 ### Stack
 
