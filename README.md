@@ -20,7 +20,7 @@ and wiring where there is a device.
 
 <table>
 <tr>
-<td align="center" width="25%"><a href="https://github.com/VINEX-Tech/nazer"><img src="https://raw.githubusercontent.com/VINEX-Tech/nazer/main/hardware/tracker-box/images/concept-in-car.jpg" alt="Nazer"><br><b>Nazer</b></a><br><sub>Vehicle tracker</sub></td>
+<td align="center" width="25%"><a href="https://github.com/VINEX-Tech/nazer"><img src="https://raw.githubusercontent.com/VINEX-Tech/nazer/main/hardware/tracker-box/images/concept-product.jpg" alt="Nazer"><br><b>Nazer</b></a><br><sub>Vehicle tracker</sub></td>
 <td align="center" width="25%"><a href="https://github.com/VINEX-Tech/farmlens"><img src="https://raw.githubusercontent.com/VINEX-Tech/farmlens/main/hardware/pi-cam-case/images/concept-field.jpg" alt="FarmLens"><br><b>FarmLens</b></a><br><sub>Crop-health node</sub></td>
 <td align="center" width="25%"><a href="https://github.com/VINEX-Tech/swimtrack"><img src="https://raw.githubusercontent.com/VINEX-Tech/swimtrack/main/docs/images/concept-kit.jpg" alt="SwimTrack"><br><b>SwimTrack</b></a><br><sub>Swim tracker</sub></td>
 <td align="center" width="25%"><a href="https://github.com/VINEX-Tech/monion"><img src="https://raw.githubusercontent.com/VINEX-Tech/monion/main/docs/images/concept-bus-door.jpg" alt="Monion"><br><b>Monion</b></a><br><sub>Bus attendance</sub></td>
